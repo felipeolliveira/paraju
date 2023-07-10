@@ -8,7 +8,6 @@ function Home() {
         <Ground />
         <Ground />
         <Ground />
-        <Ground />
       </div>
       <h1>Te amo, minha magnífica esposa ❤️</h1>
     </main>
