@@ -1,3 +1,3 @@
 Apenas um site para a minha esposa ❤️
 
-Está disponível em [amor.felipeolliveira.dev](https://amor.felipeolliveira.dev)
+Está disponível em [amor.felipeoliveira.dev](https://amor.felipeoliveira.dev)
